@@ -17,7 +17,7 @@
 
 - GitHub Pages: https://geeeeeeeek.github.io/web_tool/
 - Vercel: https://web-tool-omega.vercel.app/
-- Cloudflare Pages: https://web-a55.pages.dev/
+- Cloudflare Pages: https://nav.zutoo.com
 
 ## 快速开始
 
